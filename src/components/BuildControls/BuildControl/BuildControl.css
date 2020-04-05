@@ -1,0 +1,15 @@
+.BuildControl {
+  padding: 5px;
+  background-color: orangered;
+  border-radius: 4px;  
+  margin: 2px;
+}
+
+.BuildControl:hover {
+  background-color: orange;  
+  transition: 0.3s;
+}
+
+.BuildControl:focus {
+  outline: 0;
+}
